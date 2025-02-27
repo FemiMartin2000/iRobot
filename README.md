@@ -16,10 +16,14 @@ This project focuses on the development of an **Industrial Robot** that combines
 
 ## **Block Diagram**
 
+![Block Diagram](images/block_diagram.png)
+
 
 ---
 
 ## **Circuit Diagram**
+
+![Circuit Diagram](images/circuit_diagram.png)
 
 ---
 
